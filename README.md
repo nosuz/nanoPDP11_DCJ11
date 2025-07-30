@@ -1,4 +1,4 @@
-# tinyPDP11_DCJ11
+# nanoPDP11_DCJ11
 
 ## About this project
 
@@ -9,10 +9,10 @@ This project contains a submodule for parts symbols and footprints. Use the next
 このプロジェクトは、KiCad のシンボルとフットプリント用サブモジュールを含んでいます。そのため、次のコマンドでクローンしてください。
 
 ```
-git clone --recursive https://github.com/nosuz/tinyPDP11_DCJ11.git
+git clone --recursive https://github.com/nosuz/nanoPDP11_DCJ11.git
 
 # or
-git clone https://github.com/nosuz/tinyPDP11_DCJ11.git
+git clone https://github.com/nosuz/nanoPDP11_DCJ11.git
 git submodule update --init --recursive
 ```
 
